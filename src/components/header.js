@@ -3,8 +3,8 @@ import { Link } from "react-router-dom";
 
 const Header = () => {
   const pages = [
-    { name: "About Me", path: "/hall-of-fame" },
-    { name: "Experience", path: "/lessons" },
+    { name: "About Me", path: "/about-me" },
+    { name: "Experience", path: "/experience" },
   ];
 
   return (
