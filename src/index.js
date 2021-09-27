@@ -6,7 +6,7 @@ import { Header, Footer } from "./components";
 import App from "./App";
 import Gallery from "./Gallery";
 import Lessons from "./Lessons";
-import Lesson from "./";
+import Lesson from "./Lesson";
 import { resume } from "./data/markdown";
 import { projects } from "./data/markdown";
 
