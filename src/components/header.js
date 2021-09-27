@@ -3,14 +3,14 @@ import { Link } from "react-router-dom";
 
 const Header = () => {
   const pages = [
-    { name: "Lessons", path: "/lessons" },
-    { name: "Hall of Fame", path: "/hall-of-fame" },
+    { name: "About Me", path: "/hall-of-fame" },
+    { name: "Experience", path: "/lessons" },
   ];
 
   return (
     <div className="masthead">
       <Link to="/">
-        <h1 className="site-title">CSSG Education Team</h1>
+        <h1 className="site-title">SARAH ZHANG</h1>
       </Link>
 
       <div className="nav-links">
