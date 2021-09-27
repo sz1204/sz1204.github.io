@@ -16,7 +16,7 @@ const Index = () => (
   <div className="main">
     <BrowserRouter>
       <Header />
-      <div>
+      <Switch>
         <Route exact path="/" component={App} />
         <Route path="/experience" component={Lessons} />
         <Route path="/about-me" component={Gallery} />
@@ -26,7 +26,7 @@ const Index = () => (
         <Route path="/projects">
           <Lessons lesson={projects} />
         </Route>
-      </div>
+      </Switch>
       <Footer />
     </BrowserRouter>
   </div>
