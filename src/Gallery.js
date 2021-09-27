@@ -47,6 +47,7 @@ const Gallery = () => {
           <p>i am double majoring in computer science (ba) and political science (ba), with a minor in data science.</p> 
           <p>in my free time, i enjoy traveling, listening to music, watching anime, and reading!</p>
         </div>
+        
         <div id="favorite-books">
           <h2>my favorite books</h2>
           <img src={flowers} alt="anime flowers gif" />
@@ -58,7 +59,9 @@ const Gallery = () => {
           {finished_reading.map((books) => (
             <li>{books}</li>
           ))}
-        <div id="pink-puddle">
+        </div>
+
+        <div id="music">
           <h2>music i like</h2>
           <img src={pink_puddle} alt="pink anime puddle gif" />
           <h4>artists ;;-</h4>
@@ -66,7 +69,7 @@ const Gallery = () => {
             <li>{artists}</li>
           ))}
         </div>
-        </div>
+
         <div id="anime">
           <h2>anime i like!</h2>
           <img src={clouds} alt="anime clouds gif" />
