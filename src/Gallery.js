@@ -1,88 +1,78 @@
-import portfolios from "./data/images/portfolios.gif";
-import todo from "./data/images/todo.gif";
-import endpoints from "./data/images/endpoints.gif";
-import notes from "./data/images/notes.gif";
+import portfolios from "./data/images/pink-puddle.gif";
+import todo from "./data/images/moon.gif";
+import endpoints from "./data/images/flowers.gif";
+import notes from "./data/images/clouds.gif";
 
 const Gallery = () => {
-  const portfolio_apps = [
-    "Andrew Byerle",
-    "Claire Helms",
-    "Hayley Owens",
-    "Elaine Dong",
-    "Erin Byrd",
-    "Meghan Sun",
-    "Shriya Mandal",
-    "Raghuvara Padma",
-    "Danny O'Shaughnessy",
-    "Kendall Howard",
-    "Milen Patel",
-    "William Mullen",
+  const artists = [
+    "taylor swift",
+    "lana del rey",
+    "sza",
+    "tyler, the creator",
+    "wallows",
+    "lorde",
+    "clairo",
+    "phoebe bridgers",
   ];
-  const todo_apps = [
-    "Andrew Byerle",
-    "Hayley Owens",
-    "Meghan Sun",
-    "Shriya Mandal",
-    "Raghuvara Padma",
-    "Danny O'Shaughnessy",
-    "Milen Patel",
-    "Kendall Howard",
+  const currently_reading = [
+    "the problem with work: marxism, feminism, antiwork politics, and postwork imaginaries by kathi weeks",
+    "our time is now: power, purpose, and the fight for a fair america by stacey abrams",
+    "the alignment problem: machine learning and human values by brian christian",
+    "as long as grass grows: the indigenous fight for environmental justice by dina gilio-whitaker",
   ];
-  const endpoint_apps = [
-    "Raghuvara Padma",
-    "Danny O'Shaughnessy",
-    "Milen Patel",
-    "Kendall Howard",
+  const finished_reading = [
+    "norwegian wood by haruki murakami",
+    "klara and the sun by kazuo ishiguro",
+    "valley of the dolls by jacqueline susann",
+    "how to be an antiracist by dr. ibram x kendi",
   ];
-  const group_projects = [
-    "Raghuvara Padma",
-    "Danny O'Shaughnessy",
-    "Kendall Howard",
-    "Milen Patel",
+  const anime = [
+    "jujutsu kaisen",
+    "porco rosso",
+    "whisper of the heart",
+    "haikyuu!!",
+    "horimiya",
+    "words bubble up like soda pop",
   ];
-  const note_apps = ["Kendall Howard"];
 
   return (
     <div className="home">
-      <h1>Hall of Fame (Spring 2021)</h1>
+      <h1>about me :')</h1>
       <div id="content" class="hof">
-        <div id="portfolios">
-          <h2>Portfolios</h2>
-          <img src={portfolios} alt="portfolio gif" />
-          <h4>Completed by:</h4>
-          {portfolio_apps.map((person) => (
-            <li>{person}</li>
+        <div id="about-me">
+          <h2>hello!</h2>
+          <img src={moon} alt="moon anime gif" />
+          <h4>about me...</h4>
+          <p>hi! my name is sarah zhang (she/they) and i am a freshman at the university of north carolina at chapel hill.</p>
+          <p>i am double majoring in computer science (ba) and political science (ba), with a minor in data science.</p> 
+          <p>in my free time, i enjoy traveling, listening to music, watching anime, and reading!</p>
+        </div>
+        <div id="favorite-books">
+          <h2>my favorite books</h2>
+          <img src={flowers} alt="anime flowers gif" />
+          <h4>what i'm currently reading</h4>
+          {currently_reading.map((books) => (
+            <li>{books}</li>
+          ))}
+          <h4>what i've finished recently</h4>
+          {finished_reading.map((books) => (
+            <li>{books}</li>
+          ))}
+        <div id="pink-puddle">
+          <h2>music i like</h2>
+          <img src={pink-puddle} alt="pink anime puddle gif" />
+          <h4>artists ;;-</h4>
+          {artists.map((artists) => (
+            <li>{artists}</li>
           ))}
         </div>
-        <div id="todo-apps">
-          <h2>Todo Apps</h2>
-          <img src={todo} alt="todo app gif" />
-          <h4>Completed by:</h4>
-          {todo_apps.map((person) => (
-            <li>{person}</li>
-          ))}
         </div>
-        <div id="endpoint-apps">
-          <h2>Endpoint Apps</h2>
-          <img src={endpoints} alt="endpoint gif" />
-          <h4>Completed by:</h4>
-          {endpoint_apps.map((person) => (
-            <li>{person}</li>
-          ))}
-        </div>
-        <div id="note-apps">
-          <h2>Note Apps</h2>
-          <img src={notes} alt="note gif" />
-          <h4>Completed by:</h4>
-          {note_apps.map((person) => (
-            <li>{person}</li>
-          ))}
-        </div>
-        <div id="group-projects">
-          <h2>Group Projects</h2>
-          <h4>Completed by:</h4>
-          {group_projects.map((person) => (
-            <li>{person}</li>
+        <div id="anime">
+          <h2>anime i like!</h2>
+          <img src={clouds} alt="anime clouds gif" />
+          <h4>watched recently...</h4>
+          {anime.map((anime) => (
+            <li>{anime}</li>
           ))}
         </div>
       </div>
