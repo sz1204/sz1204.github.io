@@ -7,7 +7,8 @@ import App from "./App";
 import Gallery from "./Gallery";
 import Lessons from "./Lessons";
 import Lesson from "./";
-import { lesson_one } from "./data/markdown";
+import { resume } from "./data/markdown";
+import { projects } from "./data/markdown";
 
 import "./index.css";
 
@@ -20,10 +21,10 @@ const Index = () => (
         <Route path="/experience" component={Lessons} />
         <Route path="/about-me" component={Gallery} />
         <Route path="/resume">
-          <Lesson lesson={resume} />
+          <Lessons lesson={resume} />
         </Route>
         <Route path="/projects">
-          <Lesson lesson={projects} />
+          <Lessons lesson={projects} />
         </Route>
       </div>
       <Footer />
