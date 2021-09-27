@@ -1,7 +1,6 @@
 import React from "react";
-import Switch from "react";
 import ReactDOM from "react-dom";
-import { BrowserRouter, Route } from "react-router-dom";
+import { BrowserRouter, Route, Switch } from "react-router-dom";
 
 import { Header, Footer } from "./components";
 import App from "./App";
