@@ -1,13 +1,13 @@
 import ReactMarkdown from "react-markdown";
 
-const Lesson = ({ lesson }) => {
+const Lesson = ({ Lessons }) => {
   return (
     <div className="home">
       <div id="content">
-        <ReactMarkdown source={lesson} />
+        <ReactMarkdown source={Lessons} />
       </div>
     </div>
   );
 };
 
-export default Lesson;
+export default Lesson

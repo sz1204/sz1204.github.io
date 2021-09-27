@@ -1,7 +1,7 @@
-import portfolios from "./data/images/pink-puddle.gif";
-import todo from "./data/images/moon.gif";
-import endpoints from "./data/images/flowers.gif";
-import notes from "./data/images/clouds.gif";
+import pink_puddle from "./data/images/pink_puddle.gif";
+import moon from "./data/images/moon.gif";
+import flowers from "./data/images/flowers.gif";
+import clouds from "./data/images/clouds.gif";
 
 const Gallery = () => {
   const artists = [
@@ -60,7 +60,7 @@ const Gallery = () => {
           ))}
         <div id="pink-puddle">
           <h2>music i like</h2>
-          <img src={pink-puddle} alt="pink anime puddle gif" />
+          <img src={pink_puddle} alt="pink anime puddle gif" />
           <h4>artists ;;-</h4>
           {artists.map((artists) => (
             <li>{artists}</li>

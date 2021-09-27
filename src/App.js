@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div className="home">
       <div id="content">
-        <ReactMarkdown source={lesson_one} />
+        <ReactMarkdown source={resume} />
       </div>
     </div>
   );
