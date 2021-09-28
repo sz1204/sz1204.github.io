@@ -15,10 +15,10 @@ const Gallery = () => {
     "phoebe bridgers",
   ];
   const currently_reading = [
-    "the problem with work: marxism, feminism, antiwork politics, and postwork imaginaries by kathi weeks",
-    "our time is now: power, purpose, and the fight for a fair america by stacey abrams",
-    "the alignment problem: machine learning and human values by brian christian",
-    "as long as grass grows: the indigenous fight for environmental justice by dina gilio-whitaker",
+    "the problem with work by kathi weeks",
+    "our time is now by stacey abrams",
+    "the alignment problem by brian christian",
+    "as long as grass grows by dina gilio-whitaker",
   ];
   const finished_reading = [
     "norwegian wood by haruki murakami",
@@ -33,6 +33,9 @@ const Gallery = () => {
     "haikyuu!!",
     "horimiya",
     "words bubble up like soda pop",
+    "when marnie was there",
+    "weathering with you",
+    "demon slayer",
   ];
 
   return (
@@ -43,9 +46,12 @@ const Gallery = () => {
           <h2>hello!</h2>
           <img src={moon} alt="moon anime gif" />
           <h4>about me...</h4>
-          <p>hi! my name is sarah zhang (she/they) and i am a freshman at the university of north carolina at chapel hill.</p>
-          <p>i am double majoring in computer science (ba) and political science (ba), with a minor in data science.</p> 
-          <p>in my free time, i enjoy traveling, listening to music, watching anime, and reading!</p>
+          <p>hi! my name is sarah zhang (she/they) and i am a </p>
+          <p>freshman at the university of north carolina at </p>
+          <p>chapel hill. i am majoring in computer science </p> 
+          <p>(ba) and political science (ba), with a minor in</p> 
+          <p>data science. in my free time, i enjoy traveling, </p> 
+          <p>listening to music, watching anime, and reading!</p>
         </div>
         
         <div id="favorite-books">
@@ -73,7 +79,7 @@ const Gallery = () => {
         <div id="anime">
           <h2>anime i like!</h2>
           <img src={clouds} alt="anime clouds gif" />
-          <h4>watched recently...</h4>
+          <h4>watched recently ;;-</h4>
           {anime.map((anime) => (
             <li>{anime}</li>
           ))}
