@@ -7,8 +7,8 @@ import App from "./App";
 import Gallery from "./Gallery";
 import Lessons from "./Lessons";
 import Lesson from "./Lesson";
-import { resume } from "./data/markdown";
-import { projects } from "./data/markdown";
+import projects from "./projects";
+import resume from "./resume";
 
 import "./index.css";
 
@@ -20,12 +20,8 @@ const Index = () => (
         <Route exact path="/" component={App} />
         <Route path="/experience" component={Lessons} />
         <Route path="/about-me" component={Gallery} />
-        <Route path="/resume">
-          <Lessons lesson={resume} />
-        </Route>
-        <Route path="/projects">
-          <Lessons lesson={projects} />
-        </Route>
+        <Route path="/resume" component={resume} />
+        <Route path="/projects" component={projects} />
       </Switch>
       <Footer />
     </BrowserRouter>

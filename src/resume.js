@@ -2,9 +2,7 @@ const resume = `# Resume & Background
 
 ## Education - UNC Chapel Hill
 
-Bachelor of Arts, Computer Science
-
-GPA: N/A
+####Bachelor of Arts, Computer Science
 
 Courses: Intro to Programming & Data Science, Calculus of Functions of One Variable
 
@@ -12,9 +10,14 @@ Programming Languages: Proficiency in Java. Studying HTML, CSS, Python, Javascri
 
 
 
-Bachelor of Arts, Political Science
+
+
+####Bachelor of Arts, Political Science
 
 Courses: Intro to American Democracy, Political Issues in Europe Today
+
+
+
 
 ## Experience
 ### Student Researcher at the Pennsylvania Biotechnology Center
@@ -29,6 +32,9 @@ Founded Youth 4 Unity, a student-led activism group that raises awareness on glo
 
 ### Founder of the Gen Z Daily
 Founded The Gen Z Daily, a student-run newspaper, on Instagram. Wrote & published daily news briefings simplified to be understandable to a high school student, designed graphics for social media. Ran a staff team of 16 to develop a website, create a marketing agenda, and write for the newspaper. Collaborated with other youth-led social media accounts.
+
+
+
 
 
 

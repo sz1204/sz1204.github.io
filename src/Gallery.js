@@ -44,18 +44,18 @@ const Gallery = () => {
       <div id="content" class="hof">
         <div id="about-me">
           <h2>hello!</h2>
-          <img src={moon} alt="moon anime gif" />
+          <img src={pink_puddle} alt="pink puddle anime gif" />
           <h4>about me...</h4>
-          <p>hi! my name is sarah zhang (she/they) and i am a </p>
-          <p>freshman at the university of north carolina at </p>
-          <p>chapel hill. i am majoring in computer science </p> 
-          <p>(ba) and political science (ba), with a minor in</p> 
-          <p>data science. in my free time, i enjoy traveling, </p> 
+          <p>hi! my name is sarah zhang (she/they) and i am a freshman</p>
+          <p>at the university of north carolina at chapel hill.</p>
+          <p>i am double majoring in computer science (ba) and </p> 
+          <p>political science (ba), with a minor in data science</p> 
+          <p>in my free time, i enjoy traveling, cooking vegan food,</p> 
           <p>listening to music, watching anime, and reading!</p>
         </div>
         
         <div id="favorite-books">
-          <h2>my favorite books</h2>
+          <h2>my favorite books!</h2>
           <img src={flowers} alt="anime flowers gif" />
           <h4>what i'm currently reading</h4>
           {currently_reading.map((books) => (
@@ -68,8 +68,8 @@ const Gallery = () => {
         </div>
 
         <div id="music">
-          <h2>music i like</h2>
-          <img src={pink_puddle} alt="pink anime puddle gif" />
+          <h2>music i like!</h2>
+          <img src={moon} alt="pink anime moon gif" />
           <h4>artists ;;-</h4>
           {artists.map((artists) => (
             <li>{artists}</li>

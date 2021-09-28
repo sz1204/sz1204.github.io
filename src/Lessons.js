@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import { Lesson } from "react-router-dom";
 
 const Lessons = () => {
   const lesson_map = [
