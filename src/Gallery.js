@@ -13,6 +13,7 @@ const Gallery = () => {
     "lorde",
     "clairo",
     "phoebe bridgers",
+    "arctic monkeys",
   ];
   const currently_reading = [
     "the problem with work by kathi weeks",

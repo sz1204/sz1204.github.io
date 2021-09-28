@@ -2,7 +2,7 @@ const resume = `# Resume & Background
 
 ## Education - UNC Chapel Hill
 
-####Bachelor of Arts, Computer Science
+#### Bachelor of Arts, Computer Science
 
 Courses: Intro to Programming & Data Science, Calculus of Functions of One Variable
 
@@ -12,7 +12,7 @@ Programming Languages: Proficiency in Java. Studying HTML, CSS, Python, Javascri
 
 
 
-####Bachelor of Arts, Political Science
+#### Bachelor of Arts, Political Science
 
 Courses: Intro to American Democracy, Political Issues in Europe Today
 

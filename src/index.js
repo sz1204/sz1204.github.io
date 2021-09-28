@@ -5,8 +5,6 @@ import { BrowserRouter, Route, Switch } from "react-router-dom";
 import { Header, Footer } from "./components";
 import App from "./App";
 import Gallery from "./Gallery";
-import Lessons from "./Lessons";
-import Lesson from "./Lesson";
 import projects from "./projects";
 import resume from "./resume";
 
@@ -18,7 +16,6 @@ const Index = () => (
       <Header />
       <Switch>
         <Route exact path="/" component={App} />
-        <Route path="/experience" component={Lessons} />
         <Route path="/about-me" component={Gallery} />
         <Route path="/resume" component={resume} />
         <Route path="/projects" component={projects} />
