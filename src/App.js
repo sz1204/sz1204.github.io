@@ -1,5 +1,5 @@
 import ReactMarkdown from "react-markdown";
-import { resume } from "./data/markdown";
+import resume from "./resume";
 
 const App = () => {
   return (
