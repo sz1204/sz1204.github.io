@@ -1,5 +1,5 @@
 const resume = () => {
-
+return (
     <div>
         <h1>resume and background</h1>
             <h2>education</h2>
@@ -69,7 +69,8 @@ const resume = () => {
 
             </p>
     </div>
+)
     };
-    
+
     export default resume;
     

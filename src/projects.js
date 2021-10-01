@@ -1,9 +1,11 @@
 const projects = () => {
 
-<div>
+return (
+    <div>
     <h1>projects and portfolio</h1>
         <p>This is a work in progress! Coming soon!</p>
-</div>
+    </div>
+)
 };
 
 export default projects;
