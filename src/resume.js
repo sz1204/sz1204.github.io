@@ -57,4 +57,5 @@ Leadership: CTY Civic Leadership Institute, HOBY Eastern Pennsylvania + World Le
 
 `;
 
-export default resume;
+const component = <div>{resume}</div>;
+export default component;
