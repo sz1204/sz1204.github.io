@@ -16,12 +16,12 @@ const Gallery = () => {
     "arctic monkeys",
   ];
   const currently_reading = [
-    "the problem with work by kathi weeks",
     "our time is now by stacey abrams",
     "the alignment problem by brian christian",
     "as long as grass grows by dina gilio-whitaker",
   ];
   const finished_reading = [
+    "the problem with work by kathi weeks",
     "norwegian wood by haruki murakami",
     "klara and the sun by kazuo ishiguro",
     "valley of the dolls by jacqueline susann",

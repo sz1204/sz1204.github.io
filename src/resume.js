@@ -69,6 +69,7 @@ const resume = () => {
 
             </p>
     </div>
-    }
+    };
+    
     export default resume;
     
