@@ -1,5 +1,8 @@
-const projects = `# Projects & Portfolio
+const projects = () => {
 
-work in progress!`;
-
+<div>
+    <h1>projects and portfolio</h1>
+        <p>This is a work in progress! Coming soon!</p>
+</div>
+}
 export default projects;
