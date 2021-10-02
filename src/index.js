@@ -7,6 +7,7 @@ import App from "./App";
 import Gallery from "./Gallery";
 import projects from "./projects";
 import resume from "./resume";
+import articles from "./articles";
 
 import "./index.css";
 
@@ -19,6 +20,7 @@ const Index = () => (
         <Route path="/about-me" component={Gallery} />
         <Route path="/resume" component={resume} />
         <Route path="/projects" component={projects} />
+        <Route path="/articles" component={articles} />
       </Switch>
       <Footer />
     </BrowserRouter>

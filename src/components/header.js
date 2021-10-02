@@ -6,6 +6,7 @@ const Header = () => {
     { name: "about me", path: "/about-me" },
     { name: "resume", path: "/resume" },
     { name: "projects", path: "/projects" },
+    { name: "articles", path: "/articles" },
   ];
 
   return (
