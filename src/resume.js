@@ -23,7 +23,7 @@ return (
             </p> 
             <p>
                 Programming Languages: Proficiency in Java. Studying HTML, CSS, Python, Javascript, React.
-            </p>
+            </p>  
             <h4>Bachelor of Arts, Political Science</h4>
             <p>
                 Courses: Intro to American Democracy, Political Issues in Europe Today
@@ -44,6 +44,7 @@ return (
                 Volunteered on local mayoral campaign under Friends of Lolly Hopwood for Mayor. Designed and coded website by self using HTML and CSS, canvassed in town, phone & text banked, and assisted in designing social media graphics. Worked additionally on two other websites for school board candidates.
             </p>
                 <a href="https://lollyformayorofdoylestown.godaddysites.com/" target="blank">Lolly Hopwood for Mayor Website</a>   
+                <br />
                 <a href="https://electdrmariam.com/" target="blank">Dr. Mariam Mahmud for School Board Website</a>
             <p>
                 Reference - Larissa Hopwood; (215) 275-4262; lollyhopwood@gmail.com

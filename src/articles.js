@@ -14,36 +14,6 @@ const articles = () => {
             </iframe>
             <br />
 
-            <p><b>What We Think Podcast: </b>2020 Election Reflection</p>
-            <iframe src="https://open.spotify.com/episode/0gVxl6XGt53isXML9JJ9pE?si=MMvxcvI6RTOFAYpy-iSjsQ&dl_branch=1" width="1200" height="600">
-            </iframe>
-            <br />
-
-            <p><b>TedX Arcadia: </b>20/20 Vision - The Power of Student Activism</p>
-            <iframe src="https://www.ted.com/tedx/events/39190" width="1200" height="600">
-            </iframe>
-            <br />
-
-            <p><b>Bucks County Courier Times: </b>Antiracism Education</p>
-            <iframe src="https://www.buckscountycouriertimes.com/story/news/2021/04/29/central-bucks-diwali-debate-underscores-lack-diversity-schools-students-say-bucks-county/4859668001/" width="1200" height="600">
-            </iframe>
-            <br />
-
-            <p><b>WITF Radio: </b>2021 School Year Reflection</p>
-            <iframe src="https://www.witf.org/2021/06/11/loss-healing-resistance-and-hope-5-recent-grads-reflect-on-a-turbulent-year/" width="1200" height="600">
-            </iframe>
-            <br />
-
-            <p><b>Bucks County Today: </b>Social Justice Reflection</p>
-            <iframe src="https://bucksco.today/2021/06/14/doylestown-high-school-graduates-social-justice/" width="1200" height="600">
-            </iframe>
-            <br />
-
-            <p><b>Bucks County Courier Times: </b>George Floyd Memorial</p>
-            <iframe src="https://www.buckscountycouriertimes.com/story/news/2021/05/25/bucks-county-remembers-george-floyd-calls-more-police-reform/7421210002/" width="1200" height="600">
-            </iframe>
-            <br />
-
             <p><b>Bucks County Courier Times: </b>Support for Teachers Rally</p>
             <iframe src="https://www.buckscountycouriertimes.com/picture-gallery/news/local/2020/08/16/central-bucks-back-to-school-rallies/5595023002/?fbclid=IwAR0Jru0KUh9NGIg8rbobGqUDz0FhX2pixK2wEYCT1p2wDCG3_fgR4S-MJtg" width="1200" height="600">
             </iframe>
@@ -58,6 +28,36 @@ const articles = () => {
             <iframe src="https://www.dailytarheel.com/article/2021/09/university-coal-plant-protest" width="1200" height="600">
             </iframe>
             <br />
+
+
+
+            
+
+            <a href="https://open.spotify.com/episode/0gVxl6XGt53isXML9JJ9pE?si=MMvxcvI6RTOFAYpy-iSjsQ&dl_branch=1" target="blank"><b>What We Think Podcast: </b>2020 Election Reflection</a>   
+                <br />
+
+
+            <a href="https://www.ted.com/tedx/events/39190" target="blank"><b>TedX Arcadia: </b>20/20 Vision - The Power of Student Activism</a>   
+                <br />
+
+
+            <a href="https://www.buckscountycouriertimes.com/story/news/2021/04/29/central-bucks-diwali-debate-underscores-lack-diversity-schools-students-say-bucks-county/4859668001/" target="blank"><b>Bucks County Courier Times: </b>Antiracism Education</a>   
+                <br />
+
+
+            <a href="https://www.witf.org/2021/06/11/loss-healing-resistance-and-hope-5-recent-grads-reflect-on-a-turbulent-year/" target="blank"><b>WITF Radio: </b>2021 School Year Reflection</a>   
+                <br />
+
+
+            <a href="https://bucksco.today/2021/06/14/doylestown-high-school-graduates-social-justice/" target="blank"><b>Bucks County Today: </b>Social Justice Reflection</a>   
+                <br />
+
+
+            <a href="https://www.buckscountycouriertimes.com/story/news/2021/05/25/bucks-county-remembers-george-floyd-calls-more-police-reform/7421210002/" target="blank"><b>Bucks County Courier Times: </b>George Floyd Memorial</a>   
+                <br />
+
+
+            
 
         </center>
         </div>
