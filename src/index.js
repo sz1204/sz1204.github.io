@@ -7,7 +7,6 @@ import Gallery from "./Gallery";
 import projects from "./projects";
 import resume from "./resume";
 import articles from "./articles";
-import home from "./home";
 
 import "./index.css";
 
@@ -16,8 +15,7 @@ const Index = () => (
     <BrowserRouter>
       <Header />
       <Switch>
-        <Route exact path="/" component={home} />
-        <Route path="/about-me" component={Gallery} />
+        <Route exact path="/" component={Gallery} />
         <Route path="/resume" component={resume} />
         <Route path="/projects" component={projects} />
         <Route path="/articles" component={articles} />

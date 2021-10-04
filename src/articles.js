@@ -32,29 +32,29 @@ const articles = () => {
 
 
             
-
+            <br>
             <a href="https://open.spotify.com/episode/0gVxl6XGt53isXML9JJ9pE?si=MMvxcvI6RTOFAYpy-iSjsQ&dl_branch=1" target="blank"><b>What We Think Podcast: </b>2020 Election Reflection</a>   
-                <br />
+                </br>
 
-
+            <br>
             <a href="https://www.ted.com/tedx/events/39190" target="blank"><b>TedX Arcadia: </b>20/20 Vision - The Power of Student Activism</a>   
-                <br />
+                </br>
 
-
+                <br>
             <a href="https://www.buckscountycouriertimes.com/story/news/2021/04/29/central-bucks-diwali-debate-underscores-lack-diversity-schools-students-say-bucks-county/4859668001/" target="blank"><b>Bucks County Courier Times: </b>Antiracism Education</a>   
-                <br />
+                </br>
 
-
+                <br>
             <a href="https://www.witf.org/2021/06/11/loss-healing-resistance-and-hope-5-recent-grads-reflect-on-a-turbulent-year/" target="blank"><b>WITF Radio: </b>2021 School Year Reflection</a>   
                 <br />
 
 
             <a href="https://bucksco.today/2021/06/14/doylestown-high-school-graduates-social-justice/" target="blank"><b>Bucks County Today: </b>Social Justice Reflection</a>   
-                <br />
+                </br>
 
-
+                <br>
             <a href="https://www.buckscountycouriertimes.com/story/news/2021/05/25/bucks-county-remembers-george-floyd-calls-more-police-reform/7421210002/" target="blank"><b>Bucks County Courier Times: </b>George Floyd Memorial</a>   
-                <br />
+                </br>
 
 
             

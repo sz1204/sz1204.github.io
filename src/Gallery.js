@@ -41,6 +41,7 @@ const Gallery = () => {
 
   return (
     <div className="home">
+      <center>
       <h1>about me :')</h1>
       <div id="content" class="hof">
         <div id="about-me">
@@ -86,6 +87,7 @@ const Gallery = () => {
           ))}
         </div>
       </div>
+      </center>
     </div>
   );
 };
