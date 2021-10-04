@@ -31,6 +31,7 @@ const articles = () => {
 
 
 
+            <h2>Other Articles<br /></h2>
             
 
             <a href="https://open.spotify.com/episode/0gVxl6XGt53isXML9JJ9pE?si=MMvxcvI6RTOFAYpy-iSjsQ&dl_branch=1" target="blank"><b>What We Think Podcast: </b>2020 Election Reflection<br /></a>   

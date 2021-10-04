@@ -2,6 +2,7 @@ const resume = () => {
 return (
     <div>
         <h1>resume and background</h1>
+
             <h2>Education</h2>
             <h3>Central Bucks East High School</h3>
             <p>
@@ -93,6 +94,11 @@ return (
                 <b>Leadership:</b> CTY Civic Leadership Institute, HOBY Eastern Pennsylvania + World Leadership Conference, UNC Richard Epps Emerging Leaders Program
 
             </p>
+
+            <h2>Contact</h2>
+            <a href="mailto:sarahzhangwc@gmail.com">Email me here!</a>
+            <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+            <div class="elfsight-app-b6d6bb43-9cf4-48ce-99e1-dfe1d53e11cf"></div>
     </div>
 )
     };
