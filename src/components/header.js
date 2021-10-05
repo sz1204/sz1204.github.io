@@ -12,15 +12,19 @@ const Header = () => {
   return (
     <div className="masthead">
       <Link to="/">
+        <center>
         <h1 className="site-title">♡ sarah zhang ♡</h1>
+        </center>
       </Link>
 
       <div className="nav-links">
+        <center>
         {pages.map(({ name, path }) => (
           <Link to={path}>
             <li className="nav-item">{name}</li>
           </Link>
         ))}
+        </center>
       </div>
     </div>
   );

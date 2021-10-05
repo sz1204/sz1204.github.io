@@ -28,8 +28,8 @@ return (
             <h4>Bachelor of Arts, Political Science</h4>
             <p>
                 Courses: Intro to American Democracy, Political Issues in Europe Today
-
-
+            </p>
+            <p>
                 Extracurriculars: Webmaster for Undergraduate Student Government Executive Branch, CS+ Social Good, AASA, Institute of Politics Archives Team and Tech Team
                 
 
@@ -54,11 +54,15 @@ return (
             <h3>Founder & President of Youth 4 Unity (2020-21)</h3>
             <p>
                 Founded Youth 4 Unity, a student-led activism group that raises awareness on global social/humanitarian issues: (https://www.youth4unity.com). Organized marches, contacted local government officials, ran donation drives, and led online educational summits. Created a website, oversaw a monthly informative email newsletter, scheduled meetings and events, and spoke at TedX Arcadia on student activism work.
+            </p>
+            <p>
                 <a href="https://youth4unity.com/" target="blank">Youth 4 Unity Website</a>
             </p>
             <h3>Founder of the Gen Z Daily (2020-21)</h3>
             <p>
                 Founded The Gen Z Daily, a student-run newspaper, on Instagram. Wrote & published daily news briefings simplified to be understandable to a high school student, designed graphics for social media. Ran a staff team of 16 to develop a website, create a marketing agenda, and write for the newspaper. Collaborated with other youth-led social media accounts.
+            </p> 
+            <p>
                 <a href="https://www.instagram.com/thegenzdaily/" target="blank">The Gen Z Daily Instagram</a>
 
             </p>
@@ -97,8 +101,8 @@ return (
 
             <h2>Contact</h2>
             <a href="mailto:sarahzhangwc@gmail.com">Email me here!</a>
-            <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-            <div class="elfsight-app-b6d6bb43-9cf4-48ce-99e1-dfe1d53e11cf"></div>
+                <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+                <div class="elfsight-app-b6d6bb43-9cf4-48ce-99e1-dfe1d53e11cf"></div>
     </div>
 )
     };
