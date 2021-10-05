@@ -18,13 +18,11 @@ const Header = () => {
       </Link>
 
       <div className="nav-links">
-        <center>
         {pages.map(({ name, path }) => (
           <Link to={path}>
             <li className="nav-item">{name}</li>
           </Link>
         ))}
-        </center>
       </div>
     </div>
   );
