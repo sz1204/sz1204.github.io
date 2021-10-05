@@ -107,6 +107,7 @@ return (
             <a href="mailto:sarahzhangwc@gmail.com">Email me here!</a>
             <p><br />
                 <SocialIcon url="https://www.linkedin.com/in/sarah-zhang-923baa1a5/" target="blank" />
+                <br />
                 <SocialIcon url="https://github.com/sz1204" target="blank" />
             </p>
 

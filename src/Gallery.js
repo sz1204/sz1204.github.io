@@ -5,15 +5,16 @@ import clouds from "./data/images/clouds.gif";
 
 const Gallery = () => {
   const artists = [
-    "taylor swift",
-    "lana del rey",
-    "sza",
-    "tyler, the creator",
-    "wallows",
-    "lorde",
-    "clairo",
-    "phoebe bridgers",
-    "arctic monkeys",
+    "taylor swift - 'call it what you want'",
+    "lana del rey - 'beautiful people beautiful problems'",
+    "sza - 'broken clocks'",
+    "tyler, the creator - 'wusyaname'",
+    "wallows - 'just like a movie'",
+    "lorde - 'mood ring'",
+    "clairo - 'bags'",
+    "phoebe bridgers - 'graceland too'",
+    "arctic monkeys - 'i wanna be yours'",
+    "frank ocean - 'lost'",
   ];
   const currently_reading = [
     "our time is now by stacey abrams",
@@ -51,8 +52,9 @@ const Gallery = () => {
           <p>hi! my name is sarah zhang (she/they) and i am a freshman</p>
           <p>at the university of north carolina at chapel hill.</p>
           <p>i am double majoring in computer science (ba) and </p> 
-          <p>political science (ba), with a minor in data science</p> 
+          <p>political science (ba), with a minor in data science.</p> 
           <p>in my free time, i enjoy traveling, cooking vegan food,</p> 
+          <p>doing yoga, hiking with my dog, bullet journaling,</p>
           <p>listening to music, watching anime, and reading!</p>
         </div>
         
@@ -71,8 +73,9 @@ const Gallery = () => {
 
         <div id="music">
           <h2>music i like!</h2>
+          <p><i>"she knows she lived through it to get to this moment."</i></p>
           <img src={moon} alt="pink anime moon gif" />
-          <h4>artists ;;-</h4>
+          <h4>artists + my favorite song of theirs;;-</h4>
           {artists.map((artists) => (
             <li>{artists}</li>
           ))}
@@ -80,6 +83,7 @@ const Gallery = () => {
 
         <div id="anime">
           <h2>anime i like!</h2>
+          <p><i>"the world cannot live without love."</i></p>
           <img src={clouds} alt="anime clouds gif" />
           <h4>watched recently ;;-</h4>
           {anime.map((anime) => (
