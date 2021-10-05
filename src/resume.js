@@ -105,8 +105,10 @@ return (
 
             <h2>Contact</h2>
             <a href="mailto:sarahzhangwc@gmail.com">Email me here!</a>
-            ReactDOM.render(<SocialIcon url="https://www.linkedin.com/in/sarah-zhang-923baa1a5/" />, document.body);
-            ReactDOM.render(<SocialIcon url="https://github.com/sz1204" />, document.body);
+            <p><br />
+                <SocialIcon url="https://www.linkedin.com/in/sarah-zhang-923baa1a5/" />
+                <SocialIcon url="https://github.com/sz1204" />
+            </p>
 
 
     </div>
