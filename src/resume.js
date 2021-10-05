@@ -1,3 +1,7 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import { SocialIcon } from 'react-social-icons';
+
 const resume = () => {
 return (
     <div>
@@ -101,6 +105,9 @@ return (
 
             <h2>Contact</h2>
             <a href="mailto:sarahzhangwc@gmail.com">Email me here!</a>
+            ReactDOM.render(<SocialIcon url="https://www.linkedin.com/in/sarah-zhang-923baa1a5/" />, document.body);
+            ReactDOM.render(<SocialIcon url="https://github.com/sz1204" />, document.body);
+
 
     </div>
 )
