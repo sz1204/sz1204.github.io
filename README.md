@@ -1,3 +1,3 @@
-# CSSG Education Team
+# Sarah Zhang's Personal Website
 
-A site for all things at the intersection of UNC, CSSG, and the education team!
+Personal website for Sarah Zhang - undergraduate student at UNC-Chapel Hill studying computer science, political science, and data science.
