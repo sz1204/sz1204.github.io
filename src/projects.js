@@ -2,8 +2,10 @@ const projects = () => {
 
 return (
     <div>
-    <h1>projects and portfolio</h1>
+    <center>
+    <h1>Projects and Portfolio</h1>
         <p>This is a work in progress! Coming soon!</p>
+    </center>
     </div>
 )
 };

@@ -5,11 +5,11 @@ import clouds from "./data/images/clouds.gif";
 
 const Gallery = () => {
   const currently_reading = [
-    "our time is now by stacey abrams",
     "the alignment problem by brian christian",
     "as long as grass grows by dina gilio-whitaker",
   ];
   const finished_reading = [
+    "our time is now by stacey abrams",
     "the problem with work by kathi weeks",
     "norwegian wood by haruki murakami",
     "klara and the sun by kazuo ishiguro",
@@ -20,7 +20,7 @@ const Gallery = () => {
   return (
     <div className="home">
       <center>
-      <h1>about me :')</h1>
+      <h1>About Me :')</h1>
       <div id="content" class="hof">
         <div id="about-me">
           <h2>hello!</h2>

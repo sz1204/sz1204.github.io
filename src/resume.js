@@ -5,7 +5,8 @@ import { SocialIcon } from 'react-social-icons';
 const resume = () => {
 return (
     <div>
-        <h1>resume and background</h1>
+        <center>
+        <h1>Resume and Background</h1>
 
             <h2>Education</h2>
             <h3>Central Bucks East High School</h3>
@@ -13,7 +14,10 @@ return (
                 Relevant Courses: AP European History, AP U.S. History, AP Calculus AB, AP Chemistry, AP English Language, AP Psychology, AP Computer Science A, AP Statistics, AP Biology, AP Physics N/M, AP Spanish
             </p>
             <p>
-                Extracurriculars: Founder & President of Art Therapy Club, Vice President of Key Club, President of Reading Olympics Club, National Honors Society, Spanish National Honor Society, Patient Transporter at Doylestown Hospital (~160 hrs), Volunteer at A Woman's Place (~350 hrs), CIT at James A. Michener Art Museum (~100 hrs)
+                Extracurriculars: Founder & President of Art Therapy Club, Vice President of Key Club, President of Reading Olympics Club, National Honors Society, Spanish National Honor Society
+            </p>
+            <p>
+                Volunteer Experience: Patient Transporter at Doylestown Hospital (~160 hrs), Volunteer at A Woman's Place (~350 hrs), CIT at James A. Michener Art Museum (~100 hrs)
             </p>
             <p>
                 GPA: 4.45/4.0 W, 3.91/4.0 UW
@@ -35,8 +39,9 @@ return (
             </p>
             <p>
                 Extracurriculars: Webmaster for Undergraduate Student Government Executive Branch, CS+ Social Good, AASA, Institute of Politics Archives Team and Tech Team
-                
-
+            </p>
+            <p>
+                GPA: 0.0
             </p>
             <h2>Experience</h2>
             <h3>Student Researcher at the Pennsylvania Biotechnology Center (2019-20)</h3>
@@ -111,7 +116,7 @@ return (
                 <SocialIcon url="https://github.com/sz1204" target="blank" />
             </p>
 
-
+    </center>
     </div>
 )
     };

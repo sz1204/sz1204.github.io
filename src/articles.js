@@ -2,8 +2,8 @@ const articles = () => {
 
     return (
         <div>
-        <h1>articles i've been featured in!</h1>
         <center>
+        <h1>Articles I've been featured in!</h1>
         <p><b>The Washington Post: </b>Poll Workers at Voting Stations</p>
             <iframe src="https://www.washingtonpost.com/local/education/student-poll-workers/2020/11/02/5a2060e4-1d0e-11eb-ba21-f2f001f0554b_story.html" width="1200" height="600">
             </iframe>
@@ -31,7 +31,7 @@ const articles = () => {
 
 
 
-            <h2>Other Articles<br /></h2>
+            <h2>Other Articles, Podcasts, and Mentions<br /></h2>
             
 
             <a href="https://open.spotify.com/episode/0gVxl6XGt53isXML9JJ9pE?si=MMvxcvI6RTOFAYpy-iSjsQ&dl_branch=1" target="blank"><b>What We Think Podcast: </b>2020 Election Reflection<br /></a>   
