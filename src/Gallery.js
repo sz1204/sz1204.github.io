@@ -36,13 +36,13 @@ const Gallery = () => {
         </div>
         
         <div id="favorite-books">
-          <h2>My favorite books!</h2>
+          <h2>My Favorite Books!</h2>
           <img src={flowers} alt="anime flowers gif" />
-          <h4>what i'm currently reading</h4>
+          <h4>What I'm Currently Reading</h4>
           {currently_reading.map((books) => (
             <li>{books}</li>
           ))}
-          <h4>what i've finished recently</h4>
+          <h4>What I've Finished Recently</h4>
           {finished_reading.map((books) => (
             <li>{books}</li>
           ))}
