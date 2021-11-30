@@ -20,7 +20,9 @@ const Header = () => {
       <div className="nav-links">
         {pages.map(({ name, path }) => (
           <Link to={path}>
-            <li className="nav-item"><center>{name}</center></li>
+            <center>
+            <li className="nav-item">{name}</li>
+            </center>
           </Link>
         ))}
       </div>

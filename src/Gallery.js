@@ -5,16 +5,16 @@ import clouds from "./data/images/clouds.gif";
 
 const Gallery = () => {
   const currently_reading = [
-    "the alignment problem by brian christian",
-    "as long as grass grows by dina gilio-whitaker",
+    "The Alignment Problem by Brian Christian",
+    "As Long as Grass Grows by Dina Gilio-Whitaker",
   ];
   const finished_reading = [
-    "our time is now by stacey abrams",
-    "the problem with work by kathi weeks",
-    "norwegian wood by haruki murakami",
-    "klara and the sun by kazuo ishiguro",
-    "valley of the dolls by jacqueline susann",
-    "how to be an antiracist by dr. ibram x kendi",
+    "Our Time is Now by Stacey Abrams",
+    "The Problem with Work by Kathi Weeks",
+    "Norwegian Wood by Haruki Murakami",
+    "Klara and the Sun by Kazuo Ishiguro",
+    "Valley of the Dolls by Jacqueline Susann",
+    "How to be an Antiracist by Dr. Ibram X Kendi",
   ];
 
   return (
@@ -25,7 +25,7 @@ const Gallery = () => {
         <div id="about-me">
           <h2>Hello!</h2>
           <img src={pink_puddle} alt="pink puddle anime gif" />
-          <h4>about me...</h4>
+          <h4>About Me...</h4>
           <p>Hi! My name is Sarah Zhang (she/they) and I am a freshman</p>
           <p>at the University of North Carolina at Chapel Hill.</p>
           <p>I am double majoring in computer science (BA) and </p> 
@@ -36,7 +36,7 @@ const Gallery = () => {
         </div>
         
         <div id="favorite-books">
-          <h2>my favorite books!</h2>
+          <h2>My favorite books!</h2>
           <img src={flowers} alt="anime flowers gif" />
           <h4>what i'm currently reading</h4>
           {currently_reading.map((books) => (
