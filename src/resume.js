@@ -38,10 +38,10 @@ return (
                 Courses: Intro to American Democracy, Political Issues in Europe Today
             </p>
             <p>
-                Extracurriculars: Webmaster for Undergraduate Student Government Executive Branch, CS+ Social Good, AASA, Institute of Politics Archives Team and Tech Team
+                Extracurriculars: Honors Carolina, UTA for COMP110 "Intro to Progamming and Data Science", Webmaster for Undergraduate Student Government Executive Branch, CS+ Social Good, Institute of Politics Communications Team and Tech Team
             </p>
             <p>
-                GPA: 0.0
+                GPA: 3.88
             </p>
             <h2>Experience</h2>
             <h3>Student Researcher at the Pennsylvania Biotechnology Center (2019-20)</h3>
@@ -111,7 +111,7 @@ return (
             <h2>Contact</h2>
             <a href="mailto:sarahzhangwc@gmail.com">Email me here!</a>
             <p><br />
-                <SocialIcon url="https://www.linkedin.com/in/sarah-zhang-923baa1a5/" target="blank" />
+                <SocialIcon url="https://www.linkedin.com/in/sz1204/" target="blank" />
                 <br />
                 <SocialIcon url="https://github.com/sz1204" target="blank" />
             </p>

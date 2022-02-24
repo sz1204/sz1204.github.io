@@ -7,6 +7,7 @@ const Gallery = () => {
   const currently_reading = [
     "The Alignment Problem by Brian Christian",
     "As Long as Grass Grows by Dina Gilio-Whitaker",
+    "To Drink From the Well by Geeta Kapur"
   ];
   const finished_reading = [
     "Our Time is Now by Stacey Abrams",
@@ -14,7 +15,7 @@ const Gallery = () => {
     "Norwegian Wood by Haruki Murakami",
     "Klara and the Sun by Kazuo Ishiguro",
     "Valley of the Dolls by Jacqueline Susann",
-    "How to be an Antiracist by Dr. Ibram X Kendi",
+    "Kafka on the Shore by Haruki Murakami",
   ];
 
   return (

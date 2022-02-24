@@ -10,9 +10,8 @@ const photos = () => {
         <h1>Photo Gallery</h1>
             <p>Photos taken by me of beautiful places and beautiful things.</p>
         </center>
-    
         </div>
     )
     };
     
-export default photos;    
+    export default photos;    
