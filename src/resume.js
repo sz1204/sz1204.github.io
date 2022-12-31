@@ -11,72 +11,19 @@ return (
             <h2>Education</h2>
             <h3>University of North Carolina - Chapel Hill</h3>
             <p>
-                Honors Carolina, Deans List, UNC NC Fellow, Richard Epps Emerging Leaders Program, UNC Office of Diversity and Inclusion DEI Fellow
-            </p>
-            <h4>Bachelor of Arts, Computer Science</h4>
-            <p>
-                Programming Languages: Proficiency in Java and Python. Studying HTML, CSS, Javascript, React.
-            </p>  
-            <h4>Bachelor of Arts, Political Science</h4>
-            <p>
-                Extracurriculars: Webmaster for Undergraduate Student Government Executive Branch, CS+ Social Good, Institute of Politics Communications Team and Tech Team
-            </p>
-            <p>
-                GPA: 3.88
+                I am a current sophomore at UNC-Chapel Hill pursuing majors in computer science and political science with a minor in data science. With these degrees, I hope to pursue a future Masters in Data Science and Public Policy - using data and technology to shape a more equitable and just society for all.
+                I am involved with many extracurriculars and organizations, and enjoy learning and experiencing new things! I currently am involved as the founder and media chair for UNC's Affirmative Action Coalition, webmaster for the undergraduate student government, Chief of Staff for the Institute of Politics, treasurer for the Honors Carolina Student Association, outreach chair for Planned Parenthood Generation Action, and a TA for Girls Who Code.
+                I also work as a teaching assistant for COMP110, UNC's introductory computer science course, and as a research assistant on congressional candidates in UNC's political science department. Finally, I am involved as a DEI Fellow in the University Office of Diversity & Inclusion, which involves work with the Undergraduate Admissions Department, and am engaged in the NC Fellows leadership program.
             </p>
             <h2>Experience</h2>
-            <h3>Undergraduate Teaching Assistant for COMP110 "Intro to Progamming and Data Science"</h3>
             <p>
-                Held office hours 5-6 hours a week to assist students in teaching Python basics and data analysis forCOMP110, UNC-Chapel Hill's introductory computer science course, for class sizes of up to 700 students. Coordinated a semesterly overnight hackathon and skill-building workshops for COMP110 students
-                Used programming skills to serve as an additional TA for UNC Girls Who Code (Javascript, HTML, CSS) and high school mentorship program Stem Sisters (guided Python project).
-            </p>
-            <h3>Campaign Volunteer and Web Designer (2020-21)</h3>
-            <p>
-                Volunteered on local mayoral campaign under Friends of Lolly Hopwood for Mayor. Designed and coded website by self using HTML and CSS, canvassed in town, phone & text banked, and assisted in designing social media graphics. Worked additionally on two other websites for school board candidates.
-            </p>
-                <a href="https://lollyformayorofdoylestown.godaddysites.com/" target="blank">Lolly Hopwood for Mayor Website</a>   
-                <br />
-                <a href="https://electdrmariam.com/" target="blank">Dr. Mariam Mahmud for School Board Website</a>
-            <p>
-                Reference - Larissa Hopwood; (215) 275-4262; lollyhopwood@gmail.com
-
-            </p>
-            <h3>Founder & President of Youth 4 Unity (2020-21)</h3>
-            <p>
-                Founded Youth 4 Unity, a student-led activism group that raises awareness on global social/humanitarian issues: (https://www.youth4unity.com). Organized marches, contacted local government officials, ran donation drives, and led online educational summits. Created a website, oversaw a monthly informative email newsletter, scheduled meetings and events, and spoke at TedX Arcadia on student activism work.
-            </p>
-            <p>
-                <a href="https://youth4unity.com/" target="blank">Youth 4 Unity Website</a>
-            </p>
-            <h3>Founder of the Gen Z Daily (2020-21)</h3>
-            <p>
-                Founded The Gen Z Daily, a student-run newspaper, on Instagram. Wrote & published daily news briefings simplified to be understandable to a high school student, designed graphics for social media. Ran a staff team of 16 to develop a website, create a marketing agenda, and write for the newspaper. Collaborated with other youth-led social media accounts.
-            </p> 
-            <p>
-                <a href="https://www.instagram.com/thegenzdaily/" target="blank">The Gen Z Daily Instagram</a>
-
-            </p>
-            <h3>Starbucks Barista (2020-21)</h3>
-            <p>
-                Worked as a barista at local Starbucks on bar creating drinks, taking orders both through the café and on drive-thru, connect with + assist customers, and maintain a clean and organized store.
-
+                My professional background is in political campaigns and field organizing, from local school board races to congressional. Recently, I worked as the field organizer for Democrat Ashley Ehasz’s congressional race in PA-01, cultivating leadership skills through managing a team of 50 interns and overseeing upwards of 600 volunteers. I lead a robust field program that made over 80k calls to constituents, built a strong volunteer recruitment system, and uplifted young people and underrepresented communities of color across our district to get involved in the electoral process. I analyzed problems that constituents shared, and based on the issues facing our district, I developed strengths in conducting research on policy proposals, drafting responses to endorsement questionnaires, and working on campaign communications via social media and press releases. In such a fast-paced and chaotic work environment, I was able to further my organizational abilities, understand how to delegate tasks, be more independent, and pay extreme attention to details.
+                I also have skills in teaching and research from my on-campus work positions, and am a quick learner open to studying anything I find a passion in!
             </p>
 
-            <h3>Additional Extracurriculars & Projects:</h3>
-            <ul>
-                <li>
-                    <a href="https://www.facebook.com/groups/1318378398495933" target="blank">Bucks Embrace Student Ambassador</a>
-                </li>
-                <li>
-                    <a href="https://www.hongbin4mayor.org/" target="blank">Hongbin Gu for Mayor Campaign Intern + Webmaster</a>
-                </li>
-                <li>
-                    <a href="https://linktr.ee/diversifycbsd" target="blank">Diversify Our Narrative Central Bucks School District Social Media Manager</a>
-                </li>
-            </ul>
             <h2>Skills and Awards</h2>
             <p>
-                <b>Awards:</b> Presidential Scholars Award Semifinalist, Princeton Prize in Race Relations.
+                <b>Awards:</b> Presidential Scholars Award Semifinalist, Princeton Prize in Race Relations, Girls Empowered Award.
             </p> 
             <p>
                 <b>Languages:</b> Fluency in English. Limited working proficiency in Mandarin Chinese  & Spanish.
@@ -85,10 +32,11 @@ return (
                 <b>Skills:</b> Public speaking, student leadership, web development, political campaigns, social media.
             </p>
             <p>
-                <b>Leadership:</b> CTY Civic Leadership Institute, HOBY Eastern Pennsylvania + World Leadership Conference, UNC Richard Epps Emerging Leaders Program
-
+                <b>Leadership:</b> CTY Civic Leadership Institute, HOBY Eastern Pennsylvania + World Leadership Conference, UNC Richard Epps Emerging Leaders Program, NC Fellows Program
             </p>
-
+            <p>
+                <b>Community Service:</b> A Woman's Place, Doylestown Hospital, James A. Michener Art Museum, Kiwanis/Key Club
+            </p>
             <h2>Contact</h2>
             <a href="mailto:sarahzhangwc@gmail.com">Email me here!</a>
             <p><br />
