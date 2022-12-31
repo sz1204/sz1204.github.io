@@ -51,6 +51,16 @@ const articles = () => {
 
             <a href="https://www.buckscountycouriertimes.com/story/news/2021/05/25/bucks-county-remembers-george-floyd-calls-more-police-reform/7421210002/" target="blank"><b>Bucks County Courier Times: </b>George Floyd Memorial<br></br></a>   
 
+            <a href="https://www.dailytarheel.com/article/2022/10/university-students-for-affirmative-action" target="blank"><b>The Daily Tar Heel: </b>Students start UNC for Affirmative Action<br></br></a>   
+
+            <a href="https://www.wunc.org/education/2022-10-28/unc-chapel-hill-students-affirmative-action-asian-americans" target="blank"><b>WUNC: </b>UNC-Chapel Hill students formed UNC for Affirmative Action<br></br></a>   
+
+            <a href="https://abcnews.go.com/amp/Politics/college-students-affirmative-action-race-admissions-words/story?id=92212050" target="blank"><b>ABC News: </b>College students on affirmative action, race, and admissions<br></br></a>   
+
+            <a href="https://carolinaconnection.org/2022/10/28/unc-heads-to-the-supreme-court-to-defend-affirmative-action-in-admissions" target="blank"><b>Carolina Connection: </b>UNC heads to the Supreme Court to defend Affirmative Action<br></br></a>   
+
+            <a href="https://www.nbcnews.com/news/asian-america/asian-led-student-groups-are-continuing-affirmative-action-fight-harva-rcna55071?cid=sm_in&utm_campaign=later-linkinbio-nbcasianamerica&utm_content=later-30763369&utm_medium=social&utm_source=linkin.bio" target="blank"><b>NBC News: </b>How Asian-led student groups are continuing affirmative action fight<br></br></a>   
+
 
             
 

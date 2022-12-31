@@ -5,17 +5,17 @@ import clouds from "./data/images/clouds.gif";
 
 const Gallery = () => {
   const currently_reading = [
-    "The Alignment Problem by Brian Christian",
-    "As Long as Grass Grows by Dina Gilio-Whitaker",
-    "To Drink From the Well by Geeta Kapur"
+    "The Alignment Problem, Brian Christian",
+    "The Goldfinch, Donna Tartt",
+    "The Unconsoled, Kazuo Ishiguro"
   ];
   const finished_reading = [
-    "Our Time is Now by Stacey Abrams",
-    "The Problem with Work by Kathi Weeks",
-    "Norwegian Wood by Haruki Murakami",
-    "Klara and the Sun by Kazuo Ishiguro",
-    "Valley of the Dolls by Jacqueline Susann",
-    "Kafka on the Shore by Haruki Murakami",
+    "Commonwealth, Ann Patchett",
+    "Convenience Store Woman, Sayaka Murata",
+    "Small Great Things, Jodi Picoult",
+    "Never Let me Go, Kazuo Ishiguro",
+    "Pachinko, Min Jin Lee",
+    "A Wild Sheep Chase, Haruki Murakami",
   ];
 
   return (
@@ -27,13 +27,13 @@ const Gallery = () => {
           <h2>Hello!</h2>
           <img src={pink_puddle} alt="pink puddle anime gif" />
           <h4>About Me...</h4>
-          <p>Hi! My name is Sarah Zhang (she/they) and I am a freshman</p>
+          <p>Hi! My name is Sarah Zhang (she/they) and I am a sophomore</p>
           <p>at the University of North Carolina at Chapel Hill.</p>
           <p>I am double majoring in computer science (BA) and </p> 
           <p>political science (BA), with a minor in data science.</p> 
           <p>In my free time, I enjoy traveling, cooking vegan food,</p> 
           <p>doing yoga, hiking with my dog, bullet journaling,</p>
-          <p>listening to music, watching anime, and reading!</p>
+          <p>playing piano, crocheting, and reading!</p>
         </div>
         
         <div id="favorite-books">

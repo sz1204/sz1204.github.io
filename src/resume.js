@@ -7,47 +7,28 @@ return (
     <div>
         <center>
         <h1>Resume and Background</h1>
-
+        </center>
             <h2>Education</h2>
-            <h3>Central Bucks East High School</h3>
-            <p>
-                Relevant Courses: AP European History, AP U.S. History, AP Calculus AB, AP Chemistry, AP English Language, AP Psychology, AP Computer Science A, AP Statistics, AP Biology, AP Physics N/M, AP Spanish
-            </p>
-            <p>
-                Extracurriculars: Founder & President of Art Therapy Club, Vice President of Key Club, President of Reading Olympics Club, National Honors Society, Spanish National Honor Society
-            </p>
-            <p>
-                Volunteer Experience: Patient Transporter at Doylestown Hospital (~160 hrs), Volunteer at A Woman's Place (~350 hrs), CIT at James A. Michener Art Museum (~100 hrs)
-            </p>
-            <p>
-                GPA: 4.45/4.0 W, 3.91/4.0 UW
-            </p> 
-            <p>
-                ACT: 35/36
-            </p>
             <h3>University of North Carolina - Chapel Hill</h3>
+            <p>
+                Honors Carolina, Deans List, UNC NC Fellow, Richard Epps Emerging Leaders Program, UNC Office of Diversity and Inclusion DEI Fellow
+            </p>
             <h4>Bachelor of Arts, Computer Science</h4>
             <p>
-                Courses: Intro to Programming & Data Science, Calculus of Functions of One Variable
-            </p> 
-            <p>
-                Programming Languages: Proficiency in Java. Studying HTML, CSS, Python, Javascript, React.
+                Programming Languages: Proficiency in Java and Python. Studying HTML, CSS, Javascript, React.
             </p>  
             <h4>Bachelor of Arts, Political Science</h4>
             <p>
-                Courses: Intro to American Democracy, Political Issues in Europe Today
-            </p>
-            <p>
-                Extracurriculars: Honors Carolina, UTA for COMP110 "Intro to Progamming and Data Science", Webmaster for Undergraduate Student Government Executive Branch, CS+ Social Good, Institute of Politics Communications Team and Tech Team
+                Extracurriculars: Webmaster for Undergraduate Student Government Executive Branch, CS+ Social Good, Institute of Politics Communications Team and Tech Team
             </p>
             <p>
                 GPA: 3.88
             </p>
             <h2>Experience</h2>
-            <h3>Student Researcher at the Pennsylvania Biotechnology Center (2019-20)</h3>
+            <h3>Undergraduate Teaching Assistant for COMP110 "Intro to Progamming and Data Science"</h3>
             <p>
-                Worked under Dr. Roshan Thapa’s BSL-2 lab at the PA Biotechnology Center. Conducted an independent research project on the selective killing of hepatocellular carcinoma and other cancers by piperlongumine, utilizing techniques such as Trypan blue counting, performing caspase assays, measuring luminescence, and Western blotting. Performed weekly experiments over the course of six months, committing on average around 10-12 hours each week.
-            
+                Held office hours 5-6 hours a week to assist students in teaching Python basics and data analysis forCOMP110, UNC-Chapel Hill's introductory computer science course, for class sizes of up to 700 students. Coordinated a semesterly overnight hackathon and skill-building workshops for COMP110 students
+                Used programming skills to serve as an additional TA for UNC Girls Who Code (Javascript, HTML, CSS) and high school mentorship program Stem Sisters (guided Python project).
             </p>
             <h3>Campaign Volunteer and Web Designer (2020-21)</h3>
             <p>
@@ -116,7 +97,6 @@ return (
                 <SocialIcon url="https://github.com/sz1204" target="blank" />
             </p>
 
-    </center>
     </div>
 )
     };
