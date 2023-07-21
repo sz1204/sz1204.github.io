@@ -7,14 +7,13 @@ const Header = () => {
     { name: "resume", path: "/resume" },
     { name: "projects", path: "/projects" },
     { name: "articles", path: "/articles" },
-    { name: "photos", path: "/photos "},
   ];
 
   return (
     <div className="masthead">
       <Link to="/">
         <center>
-        <h1 className="site-title">♡ sarah zhang ♡</h1>
+        <h1 className="site-title">sarah zhang's portfolio!</h1>
         </center>
       </Link>
 
